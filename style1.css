@@ -1,0 +1,29 @@
+.pressed
+{
+    box-shadow: 0 3px 4px 0 rgb(0, 140, 255);
+    opacity:0.5;
+} 
+ .answerButton {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: blanchedalmond;
+}
+#result1, #result2 {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#score{
+    font-size: larger;
+    font-weight:bold ;
+    color: purple;
+}
+/* div{
+   
+} */
+
+p
+{
+font-size: larger;
+}

@@ -1,0 +1,32 @@
+html{
+    background-image:url(./background.jpg);
+}
+
+h1{
+    color: rgb(227, 218, 87);
+    font-family: "Archivo", sans-serif;
+   
+}
+
+.selection{
+    font-size: 30px;
+}
+p{
+    font-size: medium;
+    font-family: "Playwrite BE VLG", cursive;
+    color: white;
+}
+.last{
+    color: brown;
+}
+a{
+    color: rgb(190, 185, 188);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.a{
+    text-align: center;
+}
+div{
+    align-items: center;
+}
+
